@@ -103,7 +103,6 @@ cask 'hex-fiend'                 # A fast and clever open source hex editor for 
 cask 'hyper'                     # Terminal emulator built on web standards.
 cask 'keka'                      # Archive extraction and creation.
 cask 'monity-helper'             # Helper program for monity (see mas packages).
-cask 'native-access'             # Native Instruments Management Tool
 cask 'sketch'                    # Professional Digital Design for Mac
 cask 'slack'                     # Chat client for teams.
 cask 'telegram'                  # Telegram messaging client.

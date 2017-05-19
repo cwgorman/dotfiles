@@ -17,6 +17,9 @@ export DOTPACKAGES="$DOTFILES/vendor/packages"
 export DOTVENDOR="$DOTFILES/vendor"
 export WORKSPACE="$HOME/Workspace"
 
+# Maven stuff
+export JAVA_HOME=$(/usr/libexec/java_home)
+export MAVEN_OPTS="-Xmx2048m -XX:MaxPermSize=2048m"
 # Load zmv command
 # http://zshwiki.org/home/builtin/functions/zmv
 autoload -U zmv
